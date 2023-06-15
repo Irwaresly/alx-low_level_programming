@@ -2,7 +2,6 @@
 /**
  * main - prints exactly
  *
- * return : (1) success
  */
 int main(void)
 {
