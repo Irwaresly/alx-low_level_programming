@@ -5,8 +5,9 @@
 /**
  * main - generate random number
  *
- * Return : 0 success
+ * Description: This program assigns a random number to variable n
  *
+ * Return: 0 success
  */
 int main(void)
 {
@@ -27,7 +28,5 @@ int main(void)
 	{
 	printf("%d is negative\n", n);
 	}
-return (0);	
+return (0);
 }
-	
-
