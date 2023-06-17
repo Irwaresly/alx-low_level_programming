@@ -1,12 +1,10 @@
-#include<stdio.h>
 #include <stdlib.h>
 #include <time.h>
+#include <stdio.h>
 /**
- * main - The last digit
+ *main - Entry point
  *
- *Description:This program will assign a number to the variable
- *
- * Return: 0 success
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
@@ -24,4 +22,4 @@ int main(void)
 
 	return (0);
 }
-}
+
